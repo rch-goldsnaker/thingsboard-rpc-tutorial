@@ -14,6 +14,12 @@
 
 This repository is designed to offer a quick guide on RPC (Remote Procedure Calls) for ThingsBoard. Inside, you'll find code for programming an ESP32 and a simple Node.js app. The Node.js app communicates with the ThingsBoard API and uses RPC services.
 
+Reference Link:
+
+- [Thingsboard client sdk](https://github.com/thingsboard/thingsboard-client-sdk/tree/master/examples/0013-esp8266_esp32_request_rpc)
+- [Thingsboard Rpc Guide](https://thingsboard.io/docs/user-guide/rpc)
+- [Thingsboard Client side Rpc API](https://thingsboard.io/docs/reference/http-api/#rpc-api)
+- [Thingsboard Server side Rpc API](https://thingsboard.cloud/swagger-ui/#/rpc-v-2-controller)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
