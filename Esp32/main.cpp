@@ -84,7 +84,8 @@ void loop() {
   // Request the current time if not already subscribed
   if (!subscribed) {
     Serial.println("Requesting RPC...");
-    if (!tb.RPC_Request("getCurrentTime", processTime)) {
+    RPC_Request_Callback timeRequestCallback("getCurrentTime", processTime);
+    if (!tb.RPC_Request(timeRequestCallback)) {
       Serial.println("Failed to request for RPC");
       return;
     }
