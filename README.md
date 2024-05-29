@@ -39,7 +39,7 @@ Reference Link:
 
 ## <a name="youtube">🎬 Youtube tutorial</a>
 
-See tutorial video [here](https://youtu.be/xZoeJ-osS3g)
+See tutorial video [here](https://youtu.be/0S_tuXnm1ps)
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
