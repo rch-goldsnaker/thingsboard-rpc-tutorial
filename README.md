@@ -54,7 +54,7 @@ Make sure you have the following installed on your machine:
 
 For Esp32 install library:
 - [ArduinoMqttClient](https://www.arduinolibraries.info/libraries/arduino-mqtt-client)
-- [ThingsBoard](https://www.arduinolibraries.info/libraries/things-board)
+- [ThingsBoard](https://www.arduinolibraries.info/libraries/things-board) (IMPORTANT NOTE! use the ThingsBoard-0.12.2.zip version)
 
 For NodeJs App, install Node.js>= 12
 - [Node](https://nodejs.org/en/download/package-manager/current)
